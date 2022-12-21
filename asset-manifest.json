@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accounterbook_app/static/css/main.239e0afc.css",
+    "main.js": "/accounterbook_app/static/js/main.bbc43ef7.js",
+    "static/js/787.1aabcd67.chunk.js": "/accounterbook_app/static/js/787.1aabcd67.chunk.js",
+    "index.html": "/accounterbook_app/index.html",
+    "main.239e0afc.css.map": "/accounterbook_app/static/css/main.239e0afc.css.map",
+    "main.bbc43ef7.js.map": "/accounterbook_app/static/js/main.bbc43ef7.js.map",
+    "787.1aabcd67.chunk.js.map": "/accounterbook_app/static/js/787.1aabcd67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239e0afc.css",
+    "static/js/main.bbc43ef7.js"
+  ]
+}
